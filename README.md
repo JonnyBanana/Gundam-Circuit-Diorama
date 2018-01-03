@@ -17,7 +17,7 @@ The Skeme is in .png and .fzz ready to edit with Fritzing
 
 <br>
 
-![Alt text](http://i66.tinypic.com/24mf34m.jpg "Scheme Photo Fritzing Gundam Circuit Diorama by $appoh$ama & HowToHackItalia")
+![Alt text](http://i67.tinypic.com/s49q8y.jpg "Gundam Circuit Diorama by $appoh$ama & HowToHackItalia 3")
 
 <br>
 
@@ -39,9 +39,4 @@ Material list:
 ![Alt text](http://i65.tinypic.com/10mpspf.jpg "Gundam Circuit Diorama by $appoh$ama & HowToHackItalia 2")
 
 <br>
-![Alt text](http://i67.tinypic.com/s49q8y.jpg "Gundam Circuit Diorama by $appoh$ama & HowToHackItalia 3")
 
-<br>
-![Alt text](http://i67.tinypic.com/16m63jc.jpg "Gundam Circuit Diorama by $appoh$ama & HowToHackItalia 4")
-
-<br>
