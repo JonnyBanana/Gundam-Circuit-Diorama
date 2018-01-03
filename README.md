@@ -17,9 +17,6 @@ The Skeme is in .png and .fzz ready to edit with Fritzing
 
 <br>
 
-![Alt text](http://i67.tinypic.com/s49q8y.jpg "Gundam Circuit Diorama by $appoh$ama & HowToHackItalia 3")
-
-<br>
 
 It works both with 9v batteries and with normal 5v power supplies (those for smartphones or for old symbian phones are just fine)
 
@@ -31,6 +28,8 @@ If you have any questions you can contact me at howtohackitalia@gmail.com
 
 Material list:
 
+
+![Alt text](http://i67.tinypic.com/s49q8y.jpg "Gundam Circuit Diorama by $appoh$ama & HowToHackItalia 3")
 
 
 
